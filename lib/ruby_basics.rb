@@ -24,6 +24,6 @@ def last_evaluated_value
   shylene = "steven"
 end
 
-def pizza_party(type= "cheese")
-  type = "#type"
+def pizza_party(pepperoni= "cheese")
+  pepperoni = "#type"
 end
